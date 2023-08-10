@@ -5205,6 +5205,6 @@ NavigationContainer [data-framer-component-type=NavigationContainer]>*,[data-fra
     color: grey;
   }
 
-  .framer-text a:focus {
-    color: lightgrey;
+  .framer-text a:hover {
+    color: darkgrey;
   }
